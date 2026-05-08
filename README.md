@@ -378,7 +378,7 @@ build/
 | Nayan Kumar |
 | Ujjwal Kumar Singh |
 | Om Shankar Madhwan |
-| Shreyshi Bharti |
+| Shreysi Bharti |
 
 ---
 
